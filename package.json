@@ -1,6 +1,6 @@
 {
   "name": "@mjt-services/webclient-common-2025",
-  "version": "2025.3.3-1403",
+  "version": "2025.3.19-1706",
   "sideEffects": false,
   "description": "webclient common",
   "main": "./dist/index.js",
