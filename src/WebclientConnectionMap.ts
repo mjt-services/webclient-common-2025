@@ -1,10 +1,6 @@
 export type WebClientScrapeResult = {
-  url: string;
-  html?: string;
-  markdown?: string;
-  pdf?: string;
-  screenshot?: string;
-  error?: string;
+  op: WebClientOp;
+  result: unknown;
 };
 
 export type WebClientOpName =
