@@ -2,6 +2,7 @@
 
 
 ## 2025-03-20
+- more generic results ([13a4446](https://github.com/mjt-services/webclient-common-2025/commit/13a4446829be35ad09884b21dde7e5f7ad076e8c)) by Matt Taylor
 - reworked WebClientOp to be less terse ([7570c56](https://github.com/mjt-services/webclient-common-2025/commit/7570c5608e5d6b1f48b4e0a83d3331646c6c619f)) by Matt Taylor
 - webclient operations ([6151253](https://github.com/mjt-services/webclient-common-2025/commit/6151253cdafbcaba5fc95edbf2f2fd9bb1ac457f)) by Matt Taylor
 
