@@ -15,7 +15,7 @@ export type WebClientOpName =
   | "markdown"
   | "close";
 
-export type WebClientOp = [WebClientOpName, string] | [WebClientOpName];
+export type WebClientOp = { name: WebClientOpName; params?: unknown };
 
 export type WebClientProgram = WebClientOp[];
 
